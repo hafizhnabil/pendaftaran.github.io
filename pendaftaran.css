@@ -554,9 +554,23 @@
 		width: 100%;
 	}
 	.buat-janji {
-		margin: auto;
+		position: absolute;
+		left: 500px;
+		text-align: center;
 	}
 	.buat-janji1 {
-		margin: 20;
+		position: absolute;
+		left: 800px;
+		text-align: center;
 	}
+	.tentang-kami-group {
+		position: relative;
+		right: 115px;
+	}
+	.profil-nabil-icon {
+		position: relative;
+		left: 80px;
+		object-fit: cover;
+	}
+	
 }

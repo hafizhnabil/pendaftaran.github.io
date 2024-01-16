@@ -542,3 +542,21 @@
 	height: 78px;
 	border-radius: 50%;
 }
+
+@media screen and (max-width:1920px) and (min-width: 1600px) {
+	.footer {
+		width: 100%;
+	}
+	.navbar {
+		width: 100%;
+	}
+	.topmost {
+		width: 100%;
+	}
+	.buat-janji {
+		margin: auto;
+	}
+	.buat-janji1 {
+		margin: 20;
+	}
+}
